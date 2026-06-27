@@ -1,138 +1,201 @@
 <div align="center">
 
+<!-- Banner -->
+<img src="images/banner.png" alt="HDO Box Banner" width="100%">
+
 # 📦 Unofficial HDO Box Repository
 
-> Community-maintained information and resources for the HDO Box application.
+### Community Documentation • Resources • Information
 
-> **⚠️ IMPORTANT**
+> ⚠️ **HDO PRO is NOT affiliated with, endorsed by, sponsored by, or associated with HDO Box or its developers.**
 >
-> **HDO PRO is NOT affiliated with, endorsed by, sponsored by, or associated with HDO Box or its developers.**
->
-> This repository is maintained by the **HDO PRO** community and exists solely to provide information, documentation, and helpful resources.
+> This repository is maintained by the **HDO PRO Community** for informational and educational purposes only.
 
-![Banner Here](https://via.placeholder.com/1200x300?text=HDO+Box+Banner)
+![GitHub](https://img.shields.io/badge/Community-Unofficial-red?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge)
+![Android TV](https://img.shields.io/badge/Android-TV-blue?style=for-the-badge)
 
 </div>
 
 ---
 
-# 📖 About
+# 📖 About HDO Box
 
-This repository is an **unofficial** community resource for HDO Box users.
+HDO Box is an Android media application designed with a simple interface for discovering and watching movies and television shows.
 
-It exists to provide documentation, information, and useful links in one place.
+The application is commonly used on:
 
-### Included
+- 📱 Android Phones
+- 📱 Android Tablets
+- 📺 Android TV
+- 📺 Google TV
+- 🔥 Amazon Fire TV & Fire Stick
+- 💻 Android Emulators
 
-* 📱 General information
-* 📚 Documentation
-* ❓ FAQs
-* 🔗 Official links
-* 📰 News & Updates
-* 🛠 Community resources
+This repository exists to provide documentation, helpful resources, frequently asked questions, and useful links for the HDO Box community.
 
-> **No APK files, source code, copyrighted media, or streaming servers are hosted in this repository.**
-
----
-
-# 🔗 Official HDO Box Links
-
-## Main Website
-
-* https://hdoapp.com
-* https://h-do.com
-
-## Pages
-
-* About
-
-  * https://hdoapp.com/about-us
-
-* Downloads
-
-  * https://hdoapp.com/downloads
-
-* Features
-
-  * https://hdoapp.com/app-features
-
-* Contact
-
-  * https://hdoapp.com/contact-us
-
-* Disclaimer
-
-  * https://hdoapp.com/disclaimer
-
----
-
-# 🌐 Community
-
-* Reddit
-
-  * https://reddit.com/r/hdoboxtvhelp
+> **This repository does not host APKs, copyrighted media, or streaming servers.**
 
 ---
 
 # ✨ Features
 
-* Android Support
-* Android TV Support
-* Fire TV Support
-* Subtitle Support
-* Watch History
-* Favorites
-* Search
-* Lightweight Interface
-* Frequent Updates
+- 🎬 Movie Library
+- 📺 TV Shows
+- 🔍 Built-in Search
+- ⭐ Favorites
+- 🕒 Watch History
+- 💬 Subtitle Support
+- 📱 Mobile Friendly
+- 📺 Android TV Support
+- 🔄 Regular Updates
+- 🌐 Multiple Languages
+
+---
+
+# 📚 Repository Contents
+
+| Section | Description |
+|---------|-------------|
+| 📖 Documentation | Information about HDO Box |
+| ❓ FAQ | Frequently Asked Questions |
+| 🛠 Troubleshooting | Common issues & fixes |
+| 📱 Device Support | Compatible devices |
+| 📰 Updates | News and release information |
+| 🔗 Official Links | Official HDO Box pages |
+
+---
+
+# 🌐 Official Links
+
+### 🏠 Official Website
+
+Visit the official HDO Box website.
+
+➡️ **https://hdoapp.com**
+
+---
+
+### ⬇️ Downloads
+
+Download information and installation instructions.
+
+➡️ **https://hdoapp.com/downloads**
+
+---
+
+### ✨ Features
+
+Learn more about what HDO Box offers.
+
+➡️ **https://hdoapp.com/app-features**
+
+---
+
+### 📖 About
+
+Information about the HDO Box project.
+
+➡️ **https://hdoapp.com/about-us**
+
+---
+
+### 📞 Contact
+
+Contact the official developers.
+
+➡️ **https://hdoapp.com/contact-us**
+
+---
+
+### ⚖️ Disclaimer
+
+Read the official disclaimer.
+
+➡️ **https://hdoapp.com/disclaimer**
+
+---
+
+# 🤝 Community
+
+### Reddit
+
+Join the HDO Box community on Reddit.
+
+➡️ **r/hdoboxtvhelp**
 
 ---
 
 # 📱 Supported Devices
 
-* Android Phones
-* Android Tablets
-* Android TV
-* Google TV
-* Amazon Fire TV
-* Fire Stick
-* Android Emulators
+✅ Android Phones
+
+✅ Android Tablets
+
+✅ Android TV
+
+✅ Google TV
+
+✅ Fire TV
+
+✅ Fire Stick
+
+✅ Android Emulators
 
 ---
 
-# 📚 Resources
+# ❓ Frequently Asked Questions
 
-* Installation Guides
-* Troubleshooting
-* FAQs
-* Device Compatibility
-* Release Notes
-* Community Discussions
+<details>
+<summary><b>Is this repository official?</b></summary>
+
+No.
+
+This repository is maintained by the **HDO PRO Community** and is not affiliated with HDO Box.
+
+</details>
+
+<details>
+<summary><b>Does this repository host APK files?</b></summary>
+
+No.
+
+Only documentation and helpful resources are provided.
+
+</details>
+
+<details>
+<summary><b>Does this repository host movies or TV shows?</b></summary>
+
+No.
+
+No copyrighted media is stored or distributed through this repository.
+
+</details>
 
 ---
 
-# ⚠️ Legal Disclaimer
+# ⚠️ Legal Notice
 
-This repository is provided **for informational purposes only.**
+This repository is intended for educational and informational purposes only.
 
-* No APKs are hosted.
-* No movies or TV shows are hosted.
-* No copyrighted content is distributed.
-* All trademarks belong to their respective owners.
-* Please support the original developers whenever possible.
+- ❌ No APK hosting
+- ❌ No streaming servers
+- ❌ No movies or TV shows
+- ❌ No copyrighted content
+
+All trademarks, logos, and copyrights belong to their respective owners.
 
 ---
 
 <div align="center">
 
-## Disclaimer
+## ❤️ HDO PRO Community
 
-**HDO PRO is an independent community project.**
+This repository is maintained by the community.
 
 **HDO PRO is NOT affiliated with, associated with, authorized by, endorsed by, or sponsored by HDO Box or its developers.**
 
-All HDO Box names, logos, trademarks, and copyrights remain the property of their respective owners.
-
-Made with ❤️ by the HDO PRO Community.
+All HDO Box trademarks, logos, and copyrights remain the property of their respective owners.
 
 </div>
