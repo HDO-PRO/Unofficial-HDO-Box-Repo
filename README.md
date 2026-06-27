@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="images/banner.png" alt="HDO Box Banner" width="100%">
+<img width="1983" height="793" alt="ChatGPT Image Jun 27, 2026, 12_41_55 PM" src="https://github.com/user-attachments/assets/5e432b49-de08-4b1c-8f87-5a350abe1155" />
 
 # 📦 Unofficial HDO Box Repository
 
