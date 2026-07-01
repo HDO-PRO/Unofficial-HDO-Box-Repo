@@ -11,7 +11,7 @@
 
 ### Community Documentation • Resources • Information
 
-> ⚠️ **HDO PRO is NOT affiliated with, endorsed by, sponsored by, or associated with HDO Box or its developers.**
+> ⚠️ **This repository is NOT affiliated with, endorsed by, sponsored by, or associated with HDO Box or its developers.**
 >
 > This repository is maintained by the **HDO PRO Community** for informational and educational purposes only.
 
@@ -27,18 +27,15 @@
 
 HDO Box is an Android media application designed with a simple interface for discovering and watching movies and television shows.
 
-The application is commonly used on:
+Official platform support includes:
 
-- 📱 Android Phones
-- 📱 Android Tablets
+- 📱 Android
 - 📺 Android TV
-- 📺 Google TV
-- 🔥 Amazon Fire TV & Fire Stick
-- 💻 Android Emulators
+- 🍎 Limited iOS availability
 
-This repository exists to provide documentation, helpful resources, frequently asked questions, and useful links for the HDO Box community.
+This repository exists to provide documentation, FAQs, helpful resources, community information, and official links for HDO Box users.
 
-> **This repository does not host APKs, copyrighted media, or streaming servers.**
+> **This repository does not host APKs, copyrighted media, streaming servers, or modified applications.**
 
 ---
 
@@ -52,8 +49,8 @@ This repository exists to provide documentation, helpful resources, frequently a
 - 💬 Subtitle Support
 - 📱 Mobile Friendly
 - 📺 Android TV Support
-- 🔄 Regular Updates
 - 🌐 Multiple Languages
+- 🔄 Regular Updates
 
 ---
 
@@ -66,85 +63,83 @@ This repository exists to provide documentation, helpful resources, frequently a
 | 🛠 Troubleshooting | Common issues & fixes |
 | 📱 Device Support | Compatible devices |
 | 📰 Updates | News and release information |
-| 🔗 Official Links | Official HDO Box pages |
+| 🔗 Official Links | Website, downloads, community, and contact information |
 
 ---
 
 # 🌐 Official Links
 
-### 🏠 Official Website
+## 🏠 Official Website
 
-Visit the official HDO Box website.
-
-➡️ **https://hdoapp.com**
+➡️ https://hdo.app
 
 ---
 
-### ⬇️ Downloads
+## ⬇️ Downloads
 
-Download information and installation instructions.
+### 📱 Android APK
 
-➡️ **https://hdoapp.com/downloads**
+➡️ https://hdo.app/download
 
----
+### 📺 Android TV APK
 
-### ✨ Features
+➡️ https://hdo.app/tv
 
-Learn more about what HDO Box offers.
-
-➡️ **https://hdoapp.com/app-features**
+> **Beta builds are no longer supported.**
 
 ---
 
-### 📖 About
+# 📱 Platform Availability
 
-Information about the HDO Box project.
-
-➡️ **https://hdoapp.com/about-us**
-
----
-
-### 📞 Contact
-
-Contact the official developers.
-
-➡️ **https://hdoapp.com/contact-us**
+| Platform | Availability |
+|----------|--------------|
+| 📱 Android | ✅ Supported |
+| 📺 Android TV | ✅ Supported |
+| 🍎 iOS | ⚠️ Limited Availability |
 
 ---
 
-### ⚖️ Disclaimer
+# 💬 Official Community
 
-Read the official disclaimer.
+## Telegram
 
-➡️ **https://hdoapp.com/disclaimer**
+➡️ https://t.me/+tgrFoCm170s2NmQ9
 
 ---
 
-# 🤝 Community
+## Discord
 
-### Reddit
+➡️ https://discord.com/invite/VPRJVExUVD
 
-Join the HDO Box community on Reddit.
+---
 
-➡️ **r/hdoboxtvhelp**
+## Reddit
+
+➡️ https://www.reddit.com/r/HDOBox
+
+---
+
+## X (Twitter)
+
+➡️ https://x.com/hdobox
+
+---
+
+## Email
+
+📧 hdobox@gmail.com
 
 ---
 
 # 📱 Supported Devices
 
-✅ Android Phones
-
-✅ Android Tablets
-
-✅ Android TV
-
-✅ Google TV
-
-✅ Fire TV
-
-✅ Fire Stick
-
-✅ Android Emulators
+- ✅ Android Phones
+- ✅ Android Tablets
+- ✅ Android TV
+- ✅ Google TV
+- ✅ Amazon Fire TV
+- ✅ Amazon Fire TV Stick
+- ✅ Android Emulators
 
 ---
 
@@ -155,7 +150,7 @@ Join the HDO Box community on Reddit.
 
 No.
 
-This repository is maintained by the **HDO PRO Community** and is not affiliated with HDO Box.
+This repository is maintained by the HDO PRO Community and is not affiliated with HDO Box or its developers.
 
 </details>
 
@@ -164,7 +159,17 @@ This repository is maintained by the **HDO PRO Community** and is not affiliated
 
 No.
 
-Only documentation and helpful resources are provided.
+This repository only contains documentation, FAQs, resources, and official links.
+
+</details>
+
+<details>
+<summary><b>Where can I download HDO Box?</b></summary>
+
+Downloads are available from the official website:
+
+- Android: https://hdo.app/download
+- Android TV: https://hdo.app/tv
 
 </details>
 
@@ -184,11 +189,12 @@ No copyrighted media is stored or distributed through this repository.
 This repository is intended for educational and informational purposes only.
 
 - ❌ No APK hosting
+- ❌ No modified APKs
 - ❌ No streaming servers
-- ❌ No movies or TV shows
+- ❌ No copyrighted movies or TV shows
 - ❌ No copyrighted content
 
-All trademarks, logos, and copyrights belong to their respective owners.
+All trademarks, logos, product names, and copyrights belong to their respective owners.
 
 ---
 
@@ -196,9 +202,9 @@ All trademarks, logos, and copyrights belong to their respective owners.
 
 ## ❤️ HDO PRO Community
 
-This repository is maintained by the community.
+Maintained by the community for documentation and informational purposes.
 
-**HDO PRO is NOT affiliated with, associated with, authorized by, endorsed by, or sponsored by HDO Box or its developers.**
+**This repository is NOT affiliated with, associated with, authorized by, endorsed by, or sponsored by HDO Box or its developers.**
 
 All HDO Box trademarks, logos, and copyrights remain the property of their respective owners.
 
