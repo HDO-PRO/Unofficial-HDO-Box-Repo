@@ -14,6 +14,8 @@
 > ⚠️ **This repository is NOT affiliated with, endorsed by, sponsored by, or associated with HDO Box or its developers.**
 >
 > This repository is maintained by the **HDO PRO Community** for informational and educational purposes only.
+>
+> ⚠️ **All information provided in this repository is subject to change at any time without notice.**
 
 ![GitHub](https://img.shields.io/badge/Community-Unofficial-red?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge)
