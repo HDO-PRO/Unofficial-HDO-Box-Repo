@@ -1,6 +1,3 @@
-Here’s a cleaner, more polished version of the README with consistent branding, better spacing, clearer notices, and a more professional layout:
-
-```markdown
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/5e432b49-de08-4b1c-8f87-5a350abe1155" alt="OG HDO Box Banner" width="95%">
@@ -202,4 +199,3 @@ This repository is maintained independently by the community.
 **Not affiliated with OG HDO Box, HDO Box, HDO Pro, or their developers.**
 
 </div>
-```
