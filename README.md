@@ -1,19 +1,24 @@
+```markdown
 <div align="center">
 
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5e432b49-de08-4b1c-8f87-5a350abe1155"
-       alt="HDO Box Banner"
+       alt="OG HDO Box Banner"
        width="95%">
 </p>
 
-# 📦 Unofficial HDO Box Repository
+# 📦 Unofficial OG HDO Box Repository
 
 ### Community Documentation • Resources • Information
 
-> ⚠️ **This repository is NOT affiliated with, endorsed by, sponsored by, or associated with HDO Box or its developers.**
+> ⚠️ **This repository is NOT affiliated with, endorsed by, sponsored by, or associated with OG HDO Box, HDO Pro, HDO Box, or any of their developers.**
 >
-> This repository is maintained by the **HDO PRO Community** for informational and educational purposes only.
+> This repository is maintained by the community for informational and educational purposes only.
+>
+> ⚠️ **OG HDO Box is not officially shut down, based on statements and updates shared by its developers and community channels, including social media and Reddit.**
+>
+> ⚠️ **This repository is not connected to or associated with HDO Pro.**
 >
 > ⚠️ **All information provided in this repository is subject to change at any time without notice.**
 
@@ -25,17 +30,17 @@
 
 ---
 
-# 📖 About HDO Box
+# 📖 About OG HDO Box
 
-HDO Box is an Android media application designed with a simple interface for discovering and watching movies and television shows.
+OG HDO Box is an Android media application designed with a simple interface for discovering and watching movies and television shows.
 
-Official platform support includes:
+Official platform support may include:
 
 - 📱 Android
 - 📺 Android TV
 - 🍎 Limited iOS availability
 
-This repository exists to provide documentation, FAQs, helpful resources, community information, and official links for HDO Box users.
+This repository exists to provide documentation, FAQs, helpful resources, community information, and relevant links for OG HDO Box users.
 
 > **This repository does not host APKs, copyrighted media, streaming servers, or modified applications.**
 
@@ -60,18 +65,18 @@ This repository exists to provide documentation, FAQs, helpful resources, commun
 
 | Section | Description |
 |---------|-------------|
-| 📖 Documentation | Information about HDO Box |
+| 📖 Documentation | Information about OG HDO Box |
 | ❓ FAQ | Frequently Asked Questions |
-| 🛠 Troubleshooting | Common issues & fixes |
+| 🛠 Troubleshooting | Common issues and fixes |
 | 📱 Device Support | Compatible devices |
 | 📰 Updates | News and release information |
-| 🔗 Official Links | Website, downloads, community, and contact information |
+| 🔗 Community Links | Websites, communities, and relevant resources |
 
 ---
 
-# 🌐 Official Links
+# 🌐 Community and Information Links
 
-## 🏠 Official Website
+## 🏠 Website
 
 ➡️ https://hdo.app
 
@@ -87,7 +92,7 @@ This repository exists to provide documentation, FAQs, helpful resources, commun
 
 ➡️ https://hdo.app/tv
 
-> **Beta builds are no longer supported.**
+> **Download links and availability may change. Use caution when downloading files from third-party sources.**
 
 ---
 
@@ -97,11 +102,11 @@ This repository exists to provide documentation, FAQs, helpful resources, commun
 |----------|--------------|
 | 📱 Android | ✅ Supported |
 | 📺 Android TV | ✅ Supported |
-| 🍎 iOS | ⚠️ Limited Availability |
+| 🍎 iOS | ⚠️ Limited or Unconfirmed Availability |
 
 ---
 
-# 💬 Official Community
+# 💬 Community Links
 
 ## Telegram
 
@@ -121,7 +126,7 @@ This repository exists to provide documentation, FAQs, helpful resources, commun
 
 ---
 
-## X (Twitter)
+## X / Twitter
 
 ➡️ https://x.com/hdobox
 
@@ -152,7 +157,25 @@ This repository exists to provide documentation, FAQs, helpful resources, commun
 
 No.
 
-This repository is maintained by the HDO PRO Community and is not affiliated with HDO Box or its developers.
+This is an unofficial community repository. It is not affiliated with, associated with, authorized by, endorsed by, or sponsored by OG HDO Box, HDO Pro, HDO Box, or their developers.
+
+</details>
+
+<details>
+<summary><b>Is this repository connected to HDO Pro?</b></summary>
+
+No.
+
+This repository is not connected to, maintained by, or associated with HDO Pro. It is maintained independently by the community for documentation and informational purposes.
+
+</details>
+
+<details>
+<summary><b>Has OG HDO Box officially shut down?</b></summary>
+
+Based on statements and updates shared by the developers and community channels, including social media and Reddit, OG HDO Box has not been officially confirmed as shut down.
+
+Information may change, so users should rely on current statements from the developers and their recognized community channels.
 
 </details>
 
@@ -161,17 +184,14 @@ This repository is maintained by the HDO PRO Community and is not affiliated wit
 
 No.
 
-This repository only contains documentation, FAQs, resources, and official links.
+This repository only contains documentation, FAQs, resources, and links. It does not host APK files.
 
 </details>
 
 <details>
-<summary><b>Where can I download HDO Box?</b></summary>
+<summary><b>Where can I find OG HDO Box downloads?</b></summary>
 
-Downloads are available from the official website:
-
-- Android: https://hdo.app/download
-- Android TV: https://hdo.app/tv
+Refer to the available links listed in this repository. Download availability and URLs may change over time.
 
 </details>
 
@@ -195,19 +215,24 @@ This repository is intended for educational and informational purposes only.
 - ❌ No streaming servers
 - ❌ No copyrighted movies or TV shows
 - ❌ No copyrighted content
+- ❌ No affiliation with HDO Pro
+- ❌ No affiliation with OG HDO Box or its developers
 
 All trademarks, logos, product names, and copyrights belong to their respective owners.
+
+Statements about the current status of OG HDO Box are based on publicly shared community information and may change without notice. This repository does not guarantee the availability, operation, or future development of OG HDO Box.
 
 ---
 
 <div align="center">
 
-## ❤️ HDO PRO Community
+## ❤️ OG HDO Box Community
 
-Maintained by the community for documentation and informational purposes.
+Maintained independently by the community for documentation and informational purposes.
 
-**This repository is NOT affiliated with, associated with, authorized by, endorsed by, or sponsored by HDO Box or its developers.**
+**This repository is NOT affiliated with, associated with, authorized by, endorsed by, or sponsored by OG HDO Box, HDO Pro, HDO Box, or their developers.**
 
-All HDO Box trademarks, logos, and copyrights remain the property of their respective owners.
+All trademarks, logos, and copyrights remain the property of their respective owners.
 
 </div>
+```
