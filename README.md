@@ -25,7 +25,6 @@ This is an **unofficial community archive**. It is not affiliated with, connecte
 
 - OG HDO Box
 - HDO Box
-- HDO Pro
 - Any related developers, owners, or organizations
 
 This repository is maintained independently for informational, educational, and archival purposes.
