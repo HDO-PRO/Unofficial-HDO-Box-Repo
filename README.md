@@ -4,12 +4,13 @@
 
 # 📦 OG HDO Box
 
-### Unofficial Community Repository
+### Unofficial Community Archive
 
-Documentation • Resources • Updates • Community Information
+Documentation • Historical Information • Community Resources
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Community%20Maintained-blue?style=for-the-badge" alt="Community Maintained">
+  <img src="https://img.shields.io/badge/Status-Archived-lightgrey?style=for-the-badge" alt="Archived">
+  <img src="https://img.shields.io/badge/Project-Discontinued-red?style=for-the-badge" alt="Discontinued">
   <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge" alt="Android">
   <img src="https://img.shields.io/badge/Android%20TV-Supported-purple?style=for-the-badge" alt="Android TV">
 </p>
@@ -20,37 +21,65 @@ Documentation • Resources • Updates • Community Information
 
 ## ⚠️ Important Notice
 
-This is an **unofficial community repository**. It is not affiliated with, connected to, endorsed by, sponsored by, or associated with:
+This is an **unofficial community archive**. It is not affiliated with, connected to, endorsed by, sponsored by, or associated with:
 
 - OG HDO Box
 - HDO Box
 - HDO Pro
 - Any related developers, owners, or organizations
 
-This repository is maintained independently for informational and educational purposes.
+This repository is maintained independently for informational, educational, and archival purposes.
 
-> Based on statements and updates shared by the developers and community channels, including social media and Reddit, **OG HDO Box has not been officially confirmed as shut down**. Its availability and status may change at any time.
+> **OG HDO Box has been officially confirmed as shut down.** This repository is preserved as an archive for documentation, historical information, and community resources.
+
+> **This repository is not connected to or associated with HDO Pro.**
 
 ---
 
 ## 📖 About OG HDO Box
 
-OG HDO Box is an Android media application designed to provide a simple interface for discovering and watching movies and television shows.
+OG HDO Box was an Android media application that provided a simple interface for discovering and watching movies and television shows.
 
-This repository provides:
+The original project supported platforms including:
 
-- Documentation
+- 📱 Android phones
+- 📱 Android tablets
+- 📺 Android TV
+- 📺 Google TV
+- 🔥 Amazon Fire TV devices
+- 🧪 Android emulators
+
+Since OG HDO Box has been officially shut down, this repository is no longer intended to represent an active service.
+
+It is preserved to provide:
+
+- Historical documentation
 - Frequently asked questions
-- Troubleshooting information
-- Device support details
+- Archived platform information
+- Troubleshooting references
 - Community resources
-- Publicly available updates and links
+- Publicly available historical links
 
 > This repository does not host APK files, copyrighted media, streaming servers, or modified applications.
 
 ---
 
-## ✨ Features
+## 📌 Project Status
+
+| Item | Status |
+|:--|:--:|
+| OG HDO Box service | ❌ Officially shut down |
+| Active development | ❌ Discontinued |
+| Official support | ❌ Unavailable |
+| Repository status | 📦 Archived |
+| Community documentation | ✅ Preserved |
+| HDO Pro affiliation | ❌ None |
+
+---
+
+## ✨ Historical Features
+
+OG HDO Box previously included features such as:
 
 - 🎬 Movie library
 - 📺 TV show support
@@ -61,7 +90,9 @@ This repository provides:
 - 📱 Mobile-friendly interface
 - 📺 Android TV support
 - 🌐 Multiple language options
-- 🔄 Community updates
+- 🔄 Application updates
+
+These features are listed for historical reference only and are no longer guaranteed to function.
 
 ---
 
@@ -69,18 +100,18 @@ This repository provides:
 
 | Section | Description |
 |:--|:--|
-| 📖 Documentation | General information about OG HDO Box |
+| 📖 Documentation | Historical information about OG HDO Box |
 | ❓ FAQ | Answers to common questions |
-| 🛠️ Troubleshooting | Common problems and possible solutions |
-| 📱 Device Support | Compatible platforms and devices |
-| 📰 Updates | Community news and release information |
-| 🔗 Resources | Public websites and community links |
+| 🛠️ Troubleshooting | Archived issues and possible solutions |
+| 📱 Device Support | Previously supported platforms and devices |
+| 📰 Updates | Historical news and project information |
+| 🔗 Resources | Archived public websites and community links |
 
 ---
 
-## 📱 Platform Availability
+## 📱 Historical Platform Availability
 
-| Platform | Availability |
+| Platform | Historical Availability |
 |:--|:--:|
 | Android phones | ✅ Supported |
 | Android tablets | ✅ Supported |
@@ -91,32 +122,36 @@ This repository provides:
 | Android emulators | ✅ Supported |
 | iOS | ⚠️ Limited or unconfirmed |
 
+> These platform details reflect the historical availability of OG HDO Box before the project was shut down.
+
 ---
 
-## 🌐 Website and Resources
+## 🌐 Archived Website and Resources
 
 ### Website
 
-[Visit the website](https://hdo.app)
+[Open the archived website link](https://hdo.app)
 
-### Downloads
+### Historical Download Links
 
-- [Android download](https://hdo.app/download)
-- [Android TV download](https://hdo.app/tv)
+- [Android download link](https://hdo.app/download)
+- [Android TV download link](https://hdo.app/tv)
 
-> Download availability and links may change. Always use caution when downloading files from the internet.
+> These links are retained for historical reference only. The service has been officially shut down, and downloads may no longer be available or functional.
 
 ---
 
-## 💬 Community Links
+## 💬 Historical Community Links
 
 | Community | Link |
 |:--|:--|
-| Telegram | [Join the Telegram community](https://t.me/+tgrFoCm170s2NmQ9) |
-| Discord | [Join the Discord server](https://discord.com/invite/VPRJVExUVD) |
-| Reddit | [Visit the HDO Box subreddit](https://www.reddit.com/r/HDOBox) |
-| X / Twitter | [Follow the community on X](https://x.com/hdobox) |
-| Email | [hdobox@gmail.com](mailto:hdobox@gmail.com) |
+| Telegram | [Telegram community](https://t.me/+tgrFoCm170s2NmQ9) |
+| Discord | [Discord server](https://discord.com/invite/VPRJVExUVD) |
+| Reddit | [HDO Box subreddit](https://www.reddit.com/r/HDOBox) |
+| X / Twitter | [HDO Box account](https://x.com/hdobox) |
+| Email | [Historical email address](mailto:hdobox@gmail.com) |
+
+> Community links may no longer be active because the original project has been shut down.
 
 ---
 
@@ -125,7 +160,7 @@ This repository provides:
 <details>
 <summary><strong>Is this repository official?</strong></summary>
 
-No. This is an unofficial, independently maintained community repository.
+No. This is an unofficial, independently maintained community archive.
 
 It is not affiliated with, connected to, authorized by, endorsed by, or sponsored by OG HDO Box, HDO Box, HDO Pro, or their developers.
 
@@ -141,16 +176,23 @@ No. This repository is not connected to, maintained by, or associated with HDO P
 <details>
 <summary><strong>Has OG HDO Box officially shut down?</strong></summary>
 
-OG HDO Box has not been officially confirmed as shut down based on statements and updates shared by the developers and community channels, including social media and Reddit.
+Yes. OG HDO Box has been confirmed as officially shut down.
 
-The status of the project may change, so information in this repository should be considered subject to change.
+This repository is no longer intended to represent an active OG HDO Box service. It is preserved as an unofficial archive containing documentation, historical information, and community resources.
+
+</details>
+
+<details>
+<summary><strong>Is OG HDO Box still being developed?</strong></summary>
+
+No. OG HDO Box has been officially shut down, and active development and official support are no longer available.
 
 </details>
 
 <details>
 <summary><strong>Does this repository host APK files?</strong></summary>
 
-No. This repository does not host APK files. It only provides documentation, information, and public resources.
+No. This repository does not host APK files. It only provides documentation, historical information, and public resources.
 
 </details>
 
@@ -164,7 +206,7 @@ No. This repository does not host, store, or distribute copyrighted movies, tele
 <details>
 <summary><strong>Why are some links or features unavailable?</strong></summary>
 
-Links, services, and features may change or become unavailable without notice. This repository is updated by the community when new information becomes available.
+OG HDO Box has been officially shut down. As a result, websites, downloads, community channels, and application features may no longer be available.
 
 </details>
 
@@ -172,7 +214,7 @@ Links, services, and features may change or become unavailable without notice. T
 
 ## ⚖️ Legal Disclaimer
 
-This repository is provided for informational and educational purposes only.
+This repository is provided for informational, educational, and archival purposes only.
 
 It does not provide:
 
@@ -186,16 +228,30 @@ It does not provide:
 
 All trademarks, logos, product names, and copyrights belong to their respective owners.
 
-Information regarding OG HDO Box is based on publicly available community updates and may not always be current or accurate. This repository does not guarantee the availability, operation, security, or future development of OG HDO Box.
+This repository is not affiliated with OG HDO Box, HDO Box, HDO Pro, or any of their developers. The OG HDO Box project has been officially confirmed as shut down, and this repository does not claim to operate, represent, or restore the original service.
+
+Historical information and links may be incomplete, outdated, or unavailable.
+
+---
+
+## 📦 Archive Information
+
+This repository is preserved as a community archive.
+
+Its purpose is to document the history of OG HDO Box and provide useful reference material for former users and the wider community. It is not an active replacement for the original service and does not provide ongoing development or support.
 
 ---
 
 <div align="center">
 
-### ❤️ Community Maintained
+## ❤️ Community Archive
 
-This repository is maintained independently by the community.
+Preserved independently by the community for documentation and historical reference.
 
 **Not affiliated with OG HDO Box, HDO Box, HDO Pro, or their developers.**
+
+<br>
+
+**OG HDO Box — Officially Shut Down**
 
 </div>
